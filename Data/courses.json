@@ -4,43 +4,42 @@
 		"course": "HSC ENGLISH",
 		"pic": " https://unsplash.com/photos/WE_Kv_ZB1l0/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true ",
 		"price": 3000,
-		"details": "If you are a candidate of HSC examination 2023, You will look forward to A+.This is the right place "
+		"details": "If you are a candidate of HSC examination 2023, You will look forward to getting  A+.This is the right place "
 	},
 	{
 		"id": 2,
 		"course": "SSC ENGLISH",
-		"pic": " https://unsplash.com/photos/WE_Kv_ZB1l0/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true ",
+		"pic": " https://unsplash.com/photos/jBSTNenQxok/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8NHx8bGVhcm5pbmclMjBlbmdsaXNofGVufDB8fHx8MTY2NjczNjE4Ng&force=true ",
 		"price": 2700,
-		"details":"If you are a candidate of SSC examination 2023, You will look forward to A+.This is the right place"
+		"details": "If you are a candidate of SSC examination 2023, You will look forward to getting  A+.This is the right place"
 	},
 	{
 		"id": 3,
 		"course": "JSC ENGLISH",
-		"pic": " https://unsplash.com/photos/WE_Kv_ZB1l0/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true ",
+		"pic": " https://unsplash.com/photos/BJ25B9sonUs/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MjB8fGxlYXJuaW5nJTIwZW5nbGlzaHxlbnwwfHx8fDE2NjY3MzYxODY&force=true ",
 		"price": 2000,
 		"details": "If you are a candidate of JSC examination 2023, You will look forward to getting A+.This is the right place"
 	},
 	{
 		"id": 4,
 		"course": "JOB ENGLISH",
-		"pic": " https://unsplash.com/photos/jAebodq7oxk/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true ",
+		"pic": " https://unsplash.com/photos/0K7GgiA8lVE/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8MTl8fGxlYXJuaW5nJTIwZW5nbGlzaHxlbnwwfHx8fDE2NjY3MzYxODY&force=true",
 		"details": "If you are a candidate of Job examination 2023, You will look forward to getting good marks in the  Job examination.This is the right place"
 	},
-	
+
 	{
 		"id": 5,
 		"course": "ENGLISH FOR SPECIFIC PURPOSE",
-		"pic": " https://unsplash.com/photos/WE_Kv_ZB1l0/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true ",
+		"pic": "https://unsplash.com/photos/ucUB9wxkPgY/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8M3x8bGVhcm5pbmclMjBlbmdsaXNofGVufDB8fHx8MTY2NjczNjE4Ng&force=true",
 		"price": 3000,
-		"details": "এখন তোমাদের মধ্যে একটি সন্দেহ কাজ করছে যে  সিলেবাসের উপর হলেও SPECIFIC PURPOSE কিভাবে হবে, তাই আমাদের কোর্সের সকল শিক্ষক তোমাদের একাধারে উভয়ের জন্যই প্রস্তুতি নিশ্চিত করবে, আমাদের সকল শিক্ষকই  পরীক্ষা স্পেশালিস্ট।",
-		"syllabus":""
-
+		"details": "এখন তোমাদের মধ্যে একটি সন্দেহ কাজ করছে যে  সিলেবাসের উপর হলেও SPECIFIC PURPOSE কিভাবে হবে, তাই আমাদের কোর্সের সকল শিক্ষক তোমাদের একাধারে উভয়ের জন্যই প্রস্তুতি নিশ্চিত করবে, আমাদের সকল শিক্ষকই  পরীক্ষা স্পেশালিস্ট।"
+		
 	},
 
 	{
 		"id": 6,
 		"course": "SPEAKING AMD WRITING ENGLISH",
-		"pic": "  https://unsplash.com/photos/WE_Kv_ZB1l0/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8OHx8ZW5nbGlzaCUyMHN0dWR5fGVufDB8fHx8MTY2NjY0NTM2MQ&force=true",
+		"pic": "  https://unsplash.com/photos/OyCl7Y4y0Bk/download?ixid=MnwxMjA3fDB8MXxzZWFyY2h8Mnx8bGVhcm5pbmclMjBlbmdsaXNofGVufDB8fHx8MTY2NjczNjE4Ng&force=true",
 		"price": 2500,
 		"details": "If you are a candidate of SPEAKING AMD WRITING ENGLISH, You will look forward to getting good at SPEAKING AMD WRITING ENGLISH  examination.This is the right place"
 	}
